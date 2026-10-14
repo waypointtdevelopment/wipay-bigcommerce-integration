@@ -8,7 +8,7 @@ An independent BigCommerce integration research project maintained by Waypoint. 
 
 ## Research
 
-See [PLATFORM-RESEARCH.md](PLATFORM-RESEARCH.md) for the API constraint, partnership questions, and official references.
+See [PLATFORM-RESEARCH.md](PLATFORM-RESEARCH.md) for the hard constraint, the offline-payment and Transactions-API realities, the provider-list open point, and official references.
 
 ## Ownership and disclaimer
 
